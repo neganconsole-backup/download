@@ -11,19 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://cdn.jsdelivr.net/gh/neganconsole-backup/download@latest/q7f2m9x4k1.ipa</string>
+					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/latest.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/static/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/static/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.orange695.durian8453</string>
+				<string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
 				<key>bundle-version</key>
-				<string>26</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>NEGAN Streams 2.22</string>
+				<string>NEGAN Demo</string>
 			</dict>
 		</dict>
 	</array>
