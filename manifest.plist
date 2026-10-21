@@ -15,9 +15,9 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key><string>app.orange695.durian8453</string>
-        <key>bundle-version</key><string>18</string>
+        <key>bundle-version</key><string>19</string>
         <key>kind</key><string>software</string>
-        <key>title</key><string>NEGAN Streams 2.14</string>
+        <key>title</key><string>NEGAN Streams 2.15</string>
       </dict>
     </dict>
   </array>
