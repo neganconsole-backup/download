@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
 				<key>bundle-version</key>
-				<string>5.0.2</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Esign</string>
+				<string>NEGAN Clock</string>
 			</dict>
 		</dict>
 	</array>
