@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
 				<key>bundle-version</key>
-				<string>1.64.1.1768577</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Liên Quân Mobile</string>
+				<string>NEGAN Test</string>
 			</dict>
 		</dict>
 	</array>
