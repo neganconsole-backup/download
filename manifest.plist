@@ -31,11 +31,11 @@
 				<key>bundle-identifier</key>
 				<string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
 				<key>bundle-version</key>
-				<string>21.42.4</string>
+				<string>1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>YouTube</string>
+				<string>NEGAN Test</string>
 			</dict>
 		</dict>
 	</array>
