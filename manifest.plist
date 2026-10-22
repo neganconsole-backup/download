@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>app.orange695.durian8453</string>
+				<string>jp.co.rakuten-sec.iSPEED.Pushnotification.widgetapp.widgetkitextension</string>
 				<key>bundle-version</key>
-				<string>1.64.1.1768577</string>
+				<string>21.42.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Liên Quân Mobile</string>
+				<string>YouTube</string>
 			</dict>
 		</dict>
 	</array>
