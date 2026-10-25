@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/latest.ipa</string>
+					<string>https://negan-apple-signer-production.up.railway.app/latest.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/static/icon.png</string>
+					<string>https://negan-apple-signer-production.up.railway.app/static/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://zany-adventure-xr9v6g9v4jr52v4x4-8080.app.github.dev/static/icon.png</string>
+					<string>https://negan-apple-signer-production.up.railway.app/static/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
